@@ -10,5 +10,5 @@ sudo apt install pip -y
 
 pip install numpy asciichartpy rtlsdr os sys select 
 
-## you now have all the all the required modules and thats it ;) ##
+## you now have all of the required modules ;) ##
 
